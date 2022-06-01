@@ -4,11 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo 'Error: no test specified' "
+    "test": "echo 'Error: no test specified' ",
+    "start": "npx nodemon server.js"
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "formidable": "^2.0.1"
   }
 }
