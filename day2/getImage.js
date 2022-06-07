@@ -28,3 +28,8 @@ http.createServer(function (req, res) {
 }).listen(8080);
 
 
+//ovoa moze treba da se poprae
+//treba da se dodade get-image
+//probaj nekako so req.url mislam deka ke moze isto kako so e u dogserver
+
+
